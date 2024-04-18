@@ -1,0 +1,15 @@
+.app-logo{
+    height: 40px;
+    width: 40px;
+}
+.dropdown-item:hover{
+
+    color: black;
+    background-color: rgb(21, 25, 29);
+}
+.navbar{
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+    width: calc(100%);
+}
